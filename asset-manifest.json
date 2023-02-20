@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/capstone_frontend/static/css/main.19549e77.css",
+    "main.js": "/capstone_frontend/static/js/main.382c5711.js",
+    "static/js/787.b3535e11.chunk.js": "/capstone_frontend/static/js/787.b3535e11.chunk.js",
+    "static/media/studs.jpg": "/capstone_frontend/static/media/studs.7fa8be23678ad28e710e.jpg",
+    "static/media/college.jpg": "/capstone_frontend/static/media/college.3ab2dbf61dbb6a38f478.jpg",
+    "static/media/Book.jpg": "/capstone_frontend/static/media/Book.30e57083d2fca44ea599.jpg",
+    "static/media/books.jpg": "/capstone_frontend/static/media/books.268a1faee736ab51bca2.jpg",
+    "static/media/syllabus.jpg": "/capstone_frontend/static/media/syllabus.c3e56a452123ed158034.jpg",
+    "index.html": "/capstone_frontend/index.html",
+    "main.19549e77.css.map": "/capstone_frontend/static/css/main.19549e77.css.map",
+    "main.382c5711.js.map": "/capstone_frontend/static/js/main.382c5711.js.map",
+    "787.b3535e11.chunk.js.map": "/capstone_frontend/static/js/787.b3535e11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19549e77.css",
+    "static/js/main.382c5711.js"
+  ]
+}
